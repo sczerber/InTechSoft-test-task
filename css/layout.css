@@ -1,0 +1,27 @@
+*,
+*:hover,
+*:active {
+    font-family: 'PT Sans', sans-serif;
+    box-sizing: border-box;
+}
+a {
+    display: inline-flex;
+    text-decoration: none;
+}
+body{
+    max-width: 1400px;
+    font-family: 'PT Sans', sans-serif;
+}
+.clear {
+    clear: both;
+}
+img {
+    max-width: 100%;
+}
+.jd-container {
+    height: 100%;
+    margin: auto;
+    display: flex;
+    width: 85.6%;
+    flex-wrap: wrap;
+}

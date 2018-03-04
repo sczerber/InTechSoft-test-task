@@ -1,0 +1,24 @@
+/*--Slider-behin--*/
+.slide {             /* -- параметры секции со слайдером, ширина, высота*/
+    position: relative;
+    max-width: 100%;
+    max-height: 400px;
+}
+.slide__slider {    /*размеры самого слайдера*/
+    position: absolute;
+    max-width: 100%;
+    max-height: 100%;
+}
+.slide__slider--first {
+    background: lightblue;
+}
+.slide__slider--second {
+    background: lightseagreen;
+}
+.slide__slider--third {
+    background: blue;
+}
+.slide__slider--fourth {
+    background: yellow;
+}
+/*--Slider-end--*/

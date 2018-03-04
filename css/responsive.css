@@ -1,0 +1,23 @@
+/*Responsive*/
+@media (max-width: 768px) {
+    .menu__navigate {
+        display: none;
+    }
+    .responsive-menu {
+        display: block;
+        padding-top: 10px;
+        padding-bottom: 10px;
+    }
+    .jd-container {
+        width: 100%;
+    }
+    .header-logo {
+        display: none;
+    }
+    .footer-logo {
+        display: none;
+    }
+    .header-contacts {
+        margin: auto;
+    }
+}
