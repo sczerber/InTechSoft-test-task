@@ -9,7 +9,7 @@ a {
     text-decoration: none;
 }
 body{
-    max-width: 1400px;
+    max-width: 100%;
     font-family: 'PT Sans', sans-serif;
 }
 .clear {
